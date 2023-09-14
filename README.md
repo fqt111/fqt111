@@ -32,7 +32,7 @@ Here are some ideas to get you started:
    <img src="https://profile-counter.glitch.me/fqt111/count.svg" align="center" />
 </div>
 
-### <div align="center">I'm Feng Qingtian, an full-time Master student, interested in AI field 👨‍💻 </div>  
+### <div align="center">I'm Feng Qingtian, a full-time Master student, interested in the AI field 👨‍💻 </div>  
   
 - 🔭 I’m currently studying Computer Engineering(Machine Learning Applications) at National University of Singapore  
 - 🌱 I’m currently learning Model Deployment and 3D Scene Understanding  
