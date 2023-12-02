@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### <div align="center">I'm Feng Qingtian, a full-time Master student, interested in the AI field 👨‍💻 </div>  
   
 - 🔭 I’m currently studying Computer Engineering(Machine Learning Applications) at National University of Singapore  
-- 🌱 I’m currently learning Model Deployment, 3D Scene Understanding  and object detection development
+- 🌱 I’m currently learning Model pruning, 3D Scene Understanding  and object detection development
 - 📲 contact me: feng_qingtian@u.nus.edu  
 - ⚡ Interests: 🚴🏋️‍♀️🏊🏃🏸
 - 📫 [CV](Qingtian-Feng-Resume.pdf)
